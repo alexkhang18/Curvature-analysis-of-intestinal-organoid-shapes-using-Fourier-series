@@ -14,3 +14,6 @@ The code relies on the following segmentations of the organoid body where blue m
 The code also relies on the following segmentation of lysozyme positive pixels (note that the positive pixels of the necrotic core are ignored): 
 
 ![lysozyme_segmentation_check](https://github.com/user-attachments/assets/549e24a8-9b7a-4140-b37b-f1649c45dd92)
+
+Recommended citation of this: 
+Alex Khang, Engineered epithelial curvature controls Paneth cell localization in intestinal organoids, Curvature-analysis-of-intestinal-organoid-shapes-using-Fourier-series, 10.5281/zenodo.14861995, 2025.
