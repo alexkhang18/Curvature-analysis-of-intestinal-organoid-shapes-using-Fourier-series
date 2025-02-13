@@ -15,5 +15,5 @@ The code also relies on the following segmentation of lysozyme positive pixels (
 
 ![lysozyme_segmentation_check](https://github.com/user-attachments/assets/549e24a8-9b7a-4140-b37b-f1649c45dd92)
 
-Recommended citation of this: 
+Recommended citation of this code: 
 Alex Khang, Engineered epithelial curvature controls Paneth cell localization in intestinal organoids, Curvature-analysis-of-intestinal-organoid-shapes-using-Fourier-series, 10.5281/zenodo.14861995, 2025.
